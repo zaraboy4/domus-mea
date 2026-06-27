@@ -1,12 +1,12 @@
 # Domus-mea
 
-## Overview
+## 🏠 Overview
 + house with walls in strange position
 + specific objects
 
-## Run
+## ⚙️ Run
 + download domusmea.html
 + open it in browser
 
-## Tech Stack
+## 🛠️ Tech Stack
 Java Script
